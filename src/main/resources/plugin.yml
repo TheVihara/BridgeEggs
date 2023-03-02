@@ -1,0 +1,6 @@
+name: BridgeEggs
+version: '${version}'
+main: me.gorenjec.bridgeeggs.BridgeEggs
+api-version: 1.19
+authors: [ Vihara ]
+description: Adds bridge eggs to the game.
